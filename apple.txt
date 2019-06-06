@@ -1,5 +1,6 @@
 I like apple.
 i don't like apple.
+<<<<<<< HEAD
 i don't like apple.
 i don't like apple.
 i don't like apple.
@@ -18,3 +19,7 @@ i don't like apple.
 i don't like apple.
 i don't like apple.
 i don't like apple.
+
+
+test online conflicts.
+	
